@@ -1,0 +1,122 @@
+*{	transition: all .1s ease-in;
+	box-sizing: border-box;
+}
+
+html {
+	background-color: #3399cc ;
+	min-height: 100%;
+	border: 15px solid #2b81ac;
+	font-family: “Lucida Grande”, sans-serif;
+}
+
+body {
+	color: #fff;
+	/*min-height: 100vh;*/
+	width: 80%;
+	margin: 0 auto;	
+}
+
+footer {
+	padding: 20px 0;
+	font-size: 24px;
+}
+
+li p span:after {
+	content: '\b0 C';
+}
+
+.weather-top {
+	padding: 20px 0 20px 0;
+	color: #fff;s
+	font-family: “Lucida Sans Unicode”, sans-serif;
+	font-weight: 900;
+	font-size: 24px;
+}
+
+.weather-table {
+	list-style: none;
+	text-align: center;
+	padding: 2px;
+	font-size: 0;
+	background-color: #fff;
+}
+
+.weather-table:hover li:hover {
+	opacity: 1;
+}
+
+.weather-table:hover li{
+	opacity: .5;
+}
+
+.weather-table li {
+	padding: 40px 0 40px 0;
+	font-size: 24px;
+	display: inline-block;	
+}
+
+.first {
+	width: 50%;
+	background-color: #3399cc;
+	border: 1px solid #fff;
+}
+
+.second {
+	width: 25%;
+	background-color: #33cccc;
+	border: 1px solid #fff;
+}
+
+.third {
+	width: 25%;
+	background-color: #996699;
+	border: 1px solid #fff;
+}
+
+.fourth {
+	width: 25%;
+	background-color: #c24747;
+	border: 1px solid #fff;
+}
+
+.fifth {
+	width: 25%;
+	background-color: #e26742;
+	border: 1px solid #fff;
+}
+
+.sixth {
+	width: 25%;
+	background-color: #ffcc66;
+	border: 1px solid #fff;
+}
+
+.seventh {
+	width: 25%;
+	background-color: #99cc99;
+	border: 1px solid #fff;
+}
+
+.eigth {
+	width: 25%;
+	background-color: #669999;
+	border: 1px solid #fff;
+}
+
+.ninth {
+	width: 50%;
+	background-color: #cc6699;
+	border: 1px solid #fff;
+}
+
+.tenth {
+	width: 25%;
+	background-color: #339966;
+	border: 1px solid #fff;
+}
+
+.eleventh {
+	width: 100%;
+	background-color: #666699;
+	border: 1px solid #fff;
+}
